@@ -2,6 +2,8 @@
 
 This project allows you to control the "LumipadDrones" web game using hand gestures via your webcam. 
 
+![UAV Gesture Control](uav.png)
+
 ## Setup
 ```bash
 python -m venv venv
