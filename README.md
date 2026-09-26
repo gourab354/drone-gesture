@@ -1,4 +1,4 @@
-# LumipadDrones Gesture Controller
+# drone-gesture / LumipadDrones Gesture Controller
 
 This project allows you to control the "LumipadDrones" web game using hand gestures via your webcam. 
 
